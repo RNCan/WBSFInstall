@@ -63,7 +63,7 @@
             <Title>L2</Title>
             <Units/>
             <Description/>
-            <TimeMode>7 0</TimeMode>
+            <TimeMode>4 0</TimeMode>
             <Precision>1</Precision>
         </OutputVariable>
         <OutputVariable>
@@ -71,7 +71,7 @@
             <Title>L3</Title>
             <Units/>
             <Description/>
-            <TimeMode>7 0</TimeMode>
+            <TimeMode>4 0</TimeMode>
             <Precision>1</Precision>
         </OutputVariable>
         <OutputVariable>
@@ -79,7 +79,7 @@
             <Title>L4</Title>
             <Units/>
             <Description/>
-            <TimeMode>7 0</TimeMode>
+            <TimeMode>4 0</TimeMode>
             <Precision>1</Precision>
         </OutputVariable>
         <OutputVariable>
@@ -103,7 +103,7 @@
             <Title>DeadAdult</Title>
             <Units/>
             <Description/>
-            <TimeMode>7 0</TimeMode>
+            <TimeMode>4 0</TimeMode>
             <Precision>4</Precision>
         </OutputVariable>
         <OutputVariable>
@@ -111,7 +111,7 @@
             <Title>AverageInstar</Title>
             <Units/>
             <Description/>
-            <TimeMode>7 0</TimeMode>
+            <TimeMode>4 0</TimeMode>
             <Precision>2</Precision>
         </OutputVariable>
         <OutputVariable>
