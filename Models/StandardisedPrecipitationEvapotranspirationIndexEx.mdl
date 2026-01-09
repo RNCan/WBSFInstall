@@ -3,7 +3,7 @@
     <Title>Standardised Precipitation Evapotranspiration Index</Title>
     <Version>1.0</Version>
     <ID>.spei</ID>
-    <EXE>Standardised Precipitation Evapotranspiration Index.dll</EXE>
+    <EXE>StandardizedPrecipitationEvapotranspirationIndex.dll</EXE>
     <Behaviour>0</Behaviour>
     <Description>The SPEI is based on precipitation and temperature data, and it has the advantage of combining multiscalar character with the capacity to include the effects of temperature variability on drought assessment.The procedure to calculate the index is detailed and involves a climatic water balance, the accumulation of deficit/surplus at different time scales, and adjustment to a log-logistic probability distribution.</Description>
     <WindowRect>0 0 107 301</WindowRect>

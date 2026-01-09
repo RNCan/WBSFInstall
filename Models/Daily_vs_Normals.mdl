@@ -3,7 +3,7 @@
     <Title>Daily vs Normals</Title>
     <Version>1.0</Version>
     <ID>.null</ID>
-    <EXE>Daily vs Normals.dll</EXE>
+    <EXE>DailyVsNormals.dll</EXE>
     <Behaviour>0</Behaviour>
     <Description>Compare dailt minimum and maximum temperature with the expected Normlal values</Description>
     <WindowRect>0 0 325 484</WindowRect>

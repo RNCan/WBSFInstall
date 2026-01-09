@@ -3,7 +3,7 @@
     <Title>Spruce Budworm Dispersal</Title>
     <Version>1.0</Version>
     <ID>.sbe</ID>
-    <EXE>Spruce Budworm Dispersal.dll</EXE>
+    <EXE>SpruceBudwormDispersal.dll</EXE>
     <Behaviour>1</Behaviour>
     <Description>Ready-to-fly spruce budworm dispersal</Description>
     <WindowRect>0 0 155 315</WindowRect>

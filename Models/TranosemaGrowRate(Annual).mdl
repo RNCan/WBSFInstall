@@ -3,7 +3,7 @@
     <Title>Tranosema Biology</Title>
     <Version>1.0</Version>
     <ID>.Tranosema</ID>
-    <EXE>Tranosema Biology.dll</EXE>
+    <EXE>TranosemaBiology.dll</EXE>
     <Behaviour>1</Behaviour>
     <Description>Development, fecundity and attrition of Tranosema</Description>
     <WindowRect>0 0 292 234</WindowRect>

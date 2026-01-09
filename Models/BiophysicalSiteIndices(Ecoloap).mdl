@@ -3,7 +3,7 @@
     <Title>Biophysical site indices (Ecoloap)</Title>
     <Version>2.0</Version>
     <ID>.BSI</ID>
-    <EXE>Biophysical site indices (Ecoloap).dll</EXE>
+    <EXE>BiophysicalSiteIndicesEcoloap.dll</EXE>
     <Behaviour>0</Behaviour>
     <Description>This model compute annual variable from article:&#x0D;&#x0A;Biophysical site indices for shade tolerant and intolerant boreal species&#x0D;&#x0A;</Description>
     <WindowRect>0 0 77 401</WindowRect>

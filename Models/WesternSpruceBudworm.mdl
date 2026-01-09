@@ -3,7 +3,7 @@
     <Title>Western Spruce Budworm</Title>
     <Version>1.0</Version>
     <ID>.wsb</ID>
-    <EXE>Western Spruce Budworm.dll</EXE>
+    <EXE>WesternSpruceBudworm.dll</EXE>
     <Behaviour>1</Behaviour>
     <Description/>
     <WindowRect>0 0 173 200</WindowRect>

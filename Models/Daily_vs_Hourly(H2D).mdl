@@ -3,7 +3,7 @@
     <Title>Hourly 2 Daily</Title>
     <Version>1.0</Version>
     <ID>.null</ID>
-    <EXE>Daily vs Hourly.dll</EXE>
+    <EXE>DailyVsHourly.dll</EXE>
     <Behaviour>0</Behaviour>
     <Description>This model computes daily variables from hourly variables</Description>
     <WindowRect>0 0 83 331</WindowRect>

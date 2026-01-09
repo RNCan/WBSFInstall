@@ -3,7 +3,7 @@
     <Title>Climate Moisture Index (Monthly)</Title>
     <Version>1.0</Version>
     <ID>.CMI</ID>
-    <EXE>Climate Moisture Index.dll</EXE>
+    <EXE>ClimateMoistureIndex.dll</EXE>
     <Behaviour>0</Behaviour>
     <Description/>
     <WindowRect>0 0 100 250</WindowRect>

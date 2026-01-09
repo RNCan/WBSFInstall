@@ -3,7 +3,7 @@
     <Title>Spruce Budworm Biology</Title>
     <Version>1.0</Version>
     <ID>.sbw</ID>
-    <EXE>Spruce Budworm Biology.dll</EXE>
+    <EXE>SpruceBudwormBiology.dll</EXE>
     <Behaviour>1</Behaviour>
     <Description/>
     <WindowRect>0 0 384 315</WindowRect>

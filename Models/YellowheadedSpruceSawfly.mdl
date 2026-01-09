@@ -3,7 +3,7 @@
     <Title>Yellowheaded Spruce Sawfly</Title>
     <Version>1.0</Version>
     <ID>.pas</ID>
-    <EXE>Yellowheaded Spruce Sawfly.dll</EXE>
+    <EXE>YellowheadedSpruceSawfly.dll</EXE>
     <Behaviour>0</Behaviour>
     <Description/>
     <WindowRect>0 0 139 330</WindowRect>

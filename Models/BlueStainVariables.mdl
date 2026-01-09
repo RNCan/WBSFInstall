@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <Model version="3">
-    <Title>BlueStainVaraibles</Title>
+    <Title>BlueStainVariables</Title>
     <Version>1.0</Version>
     <ID>.empty</ID>
     <EXE>BlueStainVariables.dll</EXE>

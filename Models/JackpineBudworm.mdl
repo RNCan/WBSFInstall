@@ -3,7 +3,7 @@
     <Title>Jackpine Budworm</Title>
     <Version>1.0</Version>
     <ID>.jps</ID>
-    <EXE>Jackpine Budworm.dll</EXE>
+    <EXE>JackpineBudworm.dll</EXE>
     <Behaviour>0</Behaviour>
     <Description/>
     <WindowRect>0 0 199 297</WindowRect>

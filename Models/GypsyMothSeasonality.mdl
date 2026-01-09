@@ -3,7 +3,7 @@
     <Title>Gypsy Moth Seasonality(2012)</Title>
     <Version>1.1</Version>
     <ID>.GMS</ID>
-    <EXE>Gypsy Moth Seasonality.dll</EXE>
+    <EXE>GypsyMothSeasonality.dll</EXE>
     <Behaviour>0</Behaviour>
     <Description>A composite model of Gypsy moth seasonal development&#x0A;&#x0A;This is a collection of submodels of development of the various life stage, and was described in detail by Régnière &amp; Sharov (1997, 1998, 1999). Two of the egg hatch sub-models are as yet unvalidated, although they are based on process-level descriptions of Gypsy moth diapause. Sawyer's model (Sawyer et al. 1993) is based on extensive datasets from literatures. Gray's model is a complex description of the 3 phases hypothesis: pre-diapause, diapause proper, and post-diapause (Gray et al 1991, Gray et al. 1995, Gray et al. In press). &#x0A;</Description>
     <WindowRect>0 0 191 571</WindowRect>

@@ -3,7 +3,7 @@
     <Title>Spruce Budworm Manitoba</Title>
     <Version>1.0</Version>
     <ID>.sbm</ID>
-    <EXE>Spruce Budworm Manitoba.dll</EXE>
+    <EXE>SpruceBudwormManitoba.dll</EXE>
     <Behaviour>0</Behaviour>
     <Description/>
     <WindowRect>0 0 149 315</WindowRect>

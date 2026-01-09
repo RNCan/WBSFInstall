@@ -3,7 +3,7 @@
     <Title>Soi Moisture Index (daily)</Title>
     <Version>1.0</Version>
     <ID>.smiQL</ID>
-    <EXE>Soil Moisture Index QL.dll</EXE>
+    <EXE>SoilMoistureIndexQL.dll</EXE>
     <Behaviour>0</Behaviour>
     <Description>Emulate seasonal and long-term variation in actual soil moisture conditions of a "typical" forested site using basic meteorological inputs</Description>
     <WindowRect>0 0 124 314</WindowRect>
