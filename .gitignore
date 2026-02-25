@@ -1,4 +1,5 @@
 *.so
 *.exe
 *.dll
-
+*.tif
+*.vrt
